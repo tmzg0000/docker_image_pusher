@@ -70,4 +70,4 @@ razeencheng/wxapiproxy
 enwaiax/x-ui:latest
 zerotier/zerotier:latest
 zhayujie/chatgpt-on-wechat:latest
---platform=linux/arm sulinggg/openwrt:arm_cortex-a5_vfpv4
+--platform=linux/arm/v7 sulinggg/openwrt:arm_cortex-a5_vfpv4
