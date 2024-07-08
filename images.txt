@@ -36,7 +36,7 @@ nyanmisaka/jellyfin
 nyanmisaka/jellyfin:230414-amd64
 linuxserver/jackett:latest
 stainless403/mdcx-builtin-gui-base:latest
-usememos/memos:latest
+ghcr.io/usememos/memos:latest
 metatube/metatube-server:latest
 mysql:latest
 mysql:8.0.35
