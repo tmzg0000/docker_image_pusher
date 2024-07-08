@@ -63,6 +63,22 @@ alpine 即 阿里云中显示的镜像名<br>
 ### 多架构
 需要在images.txt中用 --platform=xxxxx手动指定镜像架构
 指定后的架构会以前缀的形式放在镜像名字前面
+Docker 中 --platform 参数用于指定镜像或容器运行的平台架构。常见的选项包括：
+Linux x86 架构：
+linux/amd64：64位 x86 架构（常见的桌面和服务器 CPU 架构）
+linux/386：32位 x86 架构
+linux/arm64：64位 ARM 架构（常见于较新的 ARM 服务器和设备）
+linux/arm/v7：32位 ARM 架构版本 7
+linux/arm/v6：32位 ARM 架构版本 6
+
+Windows 架构：
+windows/amd64：64位 Windows x86 架构
+windows/386：32位 Windows x86 架构
+
+特定的平台和版本：
+linux/ppc64le：IBM PowerPC 64位小端架构
+linux/s390x：IBM System z 架构
+linux/riscv64：RISC-V 64位架构
 ![](doc/多架构.png)
 
 ### 镜像重名
