@@ -69,4 +69,4 @@ nicholastzw/wxchat:latest
 razeencheng/wxapiproxy
 enwaiax/x-ui:latest
 zerotier/zerotier:latest
-zhayujie/chatgpt-on-wechat
+zhayujie/chatgpt-on-wechat:latest
