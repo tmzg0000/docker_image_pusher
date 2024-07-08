@@ -46,13 +46,12 @@ hsuyelin/nas-tools:latest
 deluan/navidrome:latest
 jc21/nginx-proxy-manager:latest
 chishin/nginx-proxy-manager-zh
-sulinggg/openwrt:armv8
-sulinggg/openwrt:arm_cortex-a5_vfpv4
+--platform=linux/arm64 sulinggg/openwrt:armv8
 orangehrm/orangehrm:latest
 6053537/portainer-ce:linux-arm64
 6053537/portainer-ce
 photoprism/photoprism
-linuxserver/qbittorrent:arm64v8-latest
+--platform=linux/arm64 linuxserver/qbittorrent:arm64v8-latest
 linuxserver/qbittorrent
 whyour/qinglong:latest
 a76yyyy/qiandao
@@ -71,3 +70,4 @@ razeencheng/wxapiproxy
 enwaiax/x-ui:latest
 zerotier/zerotier:latest
 zhayujie/chatgpt-on-wechat:latest
+--platform=linux/arm sulinggg/openwrt:arm_cortex-a5_vfpv4
