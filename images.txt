@@ -27,7 +27,8 @@ halcyonazure/lsky-pro-docker:latest
 linuxserver/firefox:latest
 snowdreamtech/frps
 snowdreamtech/frpc
-halohub/halolinuxserver/heimdall:latest
+halohub/halo
+linuxserver/heimdall:latest
 ghcr.io/gethomepage/homepage:latest
 iyuucn/iyuuplus-dev:latest
 janten/iftop
